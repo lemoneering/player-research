@@ -6,4 +6,10 @@ It's actual function is intended to be a mixture between how navigation works on
 
 The touchpad is a design we're making ourselves, not a part that we are purchasing to use as is.
 
+## Concept
+
 ![mockup of the touch-capacitive pad](./images/20260226_182856.jpg)
+
+This image shows a mockup of what we will be doing for the touch-capacitive pad. Each green shape in the enclosed portion, except for the green circles in the corners and center, are each representing one plane. There are 16 primary planes for diagonal and directional and 8 additional in-betweens for a more responsive rotational. There are 24 planes total which is why we've chosen a 24-channel IC to drive the pads and read their inputs.
+
+The buttons at the corners and center are only representative of where the pad would be in relation to them on the PCB, they will be directly controlled by the MCU not any other controller.
