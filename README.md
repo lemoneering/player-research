@@ -8,3 +8,5 @@ This main README does not contain anything.
 This does not contain any finalized schematics and anything included here is purely for prototyping purposes.
 
 Offical work will be under the `lemoneering/player` repo which will include the firmware and schematics for the device.
+
+**I do not recommend pulling down this repo because it does contain a lot of datasheets in it. If you need to reference anything just download what you need or view it in your browser.**
