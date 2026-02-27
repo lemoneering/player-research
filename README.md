@@ -1,4 +1,4 @@
-# player-research
+# player-docs
 Repo containing the files and notes that we've compiled for the player.
 
 Everything will be under the `docs/` directory which will better outline how everything comes together. Each individual IC and component will have its own dedicated directory within it that contains the information about pinouts we're using as well as the datasheets and other sources we've used to find it.
